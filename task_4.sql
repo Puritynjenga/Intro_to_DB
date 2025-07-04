@@ -1,5 +1,4 @@
 -- This script shows the full description of the 'books' table 
--- from the 'alx_book_store' database without using DESCRIBE or EXPLAIN.
 -- The database name will be passed as an argument to the mysql command.
 
 SELECT
